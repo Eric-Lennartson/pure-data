@@ -1,3 +1,5 @@
+This is just me tinkering with Pd's source code. Nothing too interesting happening here.
+
 # Pure Data
 
 This is the README file for Pd, a free real-time computer music system.
